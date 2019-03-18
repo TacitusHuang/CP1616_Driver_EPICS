@@ -1,0 +1,50 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/base.dbd
+../O.Common/Clock1.dbd : ../aiSecond.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuGlobal.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuConvert.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/aaiRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/aaoRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/aiRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/aoRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/aSubRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/biRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/boRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/calcRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/calcoutRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/compressRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/dfanoutRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/eventRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/fanoutRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/longinRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/longoutRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/mbbiRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/mbbiDirectRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/mbboRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/mbboDirectRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/permissiveRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/selRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/seqRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/stateRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/stringinRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/stringoutRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/subRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/subArrayRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/waveformRecord.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/devSoft.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuAlarmSevr.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuAlarmStat.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuCompress.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuFtype.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuIvoa.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuOmsl.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuPini.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuPriority.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuScan.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuSimm.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/menuYesNo.dbd
+../O.Common/Clock1.dbd : /home/BigH_NSRL/s7testioc/epcis/base-3.14.12.6/dbd/dbCommon.dbd
+
+
+../O.Common/Clock1Include.dbd : ../Makefile

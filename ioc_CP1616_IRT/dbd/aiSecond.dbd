@@ -1,0 +1,6 @@
+# include "base.dbd"
+# local menu, record, device, driver, breakpoint definitions
+
+device(ai,CONSTANT, cp1616Ai,"cp1616AI")
+device(ao,CONSTANT, cp1616Ao, "cp1616AO")
+driver(cp1616)
